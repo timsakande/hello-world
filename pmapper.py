@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-       This code is written by Joseph if that is true say yes
+       written by Joseph if that is true say yes
 	A tool that determines how principals are able to access each other in 
 	an AWS account.
 
